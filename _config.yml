@@ -26,7 +26,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: false
-    github:  false
+    github:  /Yebin11
     linkedIn: false
     rss: rss
  
