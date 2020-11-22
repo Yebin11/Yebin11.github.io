@@ -1,6 +1,6 @@
 # Site settings
 title:          OSS Static Page
-#description:    "Rain is a simple and clean Jekyll theme with focus on content."
+description:    "Rain is a simple and clean Jekyll theme with focus on content."
 #url:            https://github.com/inelaah/rain
 remote_theme:   inelaah/rain
 
@@ -8,7 +8,7 @@ remote_theme:   inelaah/rain
 author:
   name:         Yebin Park
   email:        dpqls2062@gmail.com
-#  url:          https://inelaah.com
+  url:          https://inelaah.com
 
 # Build settings
 markdown:       kramdown
