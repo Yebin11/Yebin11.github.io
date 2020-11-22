@@ -1,8 +1,8 @@
 # Site settings
 title:          Rain
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
-#remote_theme:   inelaah/rain
+url:            #https://github.com/inelaah/rain
+remote_theme:   inelaah/rain
 
 # Author
 author:
